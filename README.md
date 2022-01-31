@@ -31,7 +31,5 @@ Available for use under. [![License](https://img.shields.io/badge/License-CC_BY_
 
  
 ## Contact Me
-Find me at [GitHub](https://github.com/charlestietjen)
 
-Reach me by email at charles@lowlevelgoblin.com
  
