@@ -18,6 +18,11 @@ User Prompts:
 
 ![prompts](https://user-images.githubusercontent.com/3880463/151755849-7680334c-0374-4bbc-8a82-19ea938bb5eb.png)
 
+HTML Page: 
+
+![final](https://user-images.githubusercontent.com/3880463/151758808-f5eb779f-52cc-4335-b353-597f04837e86.png)
+
+
 
 ## Installation
 This app requires the inquirer package, which can be downloaded by opening a terminal in the main directory, and using 'npm install'.This command would download all the dependencies required for the app. These can be found in the 'package.json' file. <br>
